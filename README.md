@@ -10,4 +10,4 @@ And the comments are added in some important lines to help you understand the co
 Note that the corresponding function is in the bottom of the script. 
 
 ## simulation results
-The simulation results are presented in figures and performance.csv file which will be generated in the current file automaticlly. 
+The simulation results are presented in figures and performance.csv file which will be generated in the current file automatically. 
